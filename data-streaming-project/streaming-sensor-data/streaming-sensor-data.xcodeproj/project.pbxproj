@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		8B972B9123EC08E700D67343 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B972B9023EC08E700D67343 /* AppDelegate.swift */; };
 		8B972B9323EC08E700D67343 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B972B9223EC08E700D67343 /* SceneDelegate.swift */; };
-		8B972B9523EC08E700D67343 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B972B9423EC08E700D67343 /* FirstViewController.swift */; };
+		8B972B9523EC08E700D67343 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B972B9423EC08E700D67343 /* MapViewController.swift */; };
 		8B972B9723EC08E700D67343 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B972B9623EC08E700D67343 /* SecondViewController.swift */; };
 		8B972B9A23EC08E700D67343 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B972B9823EC08E700D67343 /* Main.storyboard */; };
 		8B972B9D23EC08E700D67343 /* streaming_sensor_data.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8B972B9B23EC08E700D67343 /* streaming_sensor_data.xcdatamodeld */; };
@@ -40,7 +40,7 @@
 		8B972B8D23EC08E700D67343 /* streaming-sensor-data.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "streaming-sensor-data.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B972B9023EC08E700D67343 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8B972B9223EC08E700D67343 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		8B972B9423EC08E700D67343 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		8B972B9423EC08E700D67343 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		8B972B9623EC08E700D67343 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		8B972B9923EC08E700D67343 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8B972B9C23EC08E700D67343 /* streaming_sensor_data.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = streaming_sensor_data.xcdatamodel; sourceTree = "<group>"; };
@@ -105,7 +105,7 @@
 			children = (
 				8B972B9023EC08E700D67343 /* AppDelegate.swift */,
 				8B972B9223EC08E700D67343 /* SceneDelegate.swift */,
-				8B972B9423EC08E700D67343 /* FirstViewController.swift */,
+				8B972B9423EC08E700D67343 /* MapViewController.swift */,
 				8B972B9623EC08E700D67343 /* SecondViewController.swift */,
 				8B972B9823EC08E700D67343 /* Main.storyboard */,
 				8B972B9E23EC08E800D67343 /* Assets.xcassets */,
@@ -266,7 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B972B9723EC08E700D67343 /* SecondViewController.swift in Sources */,
-				8B972B9523EC08E700D67343 /* FirstViewController.swift in Sources */,
+				8B972B9523EC08E700D67343 /* MapViewController.swift in Sources */,
 				8B972B9D23EC08E700D67343 /* streaming_sensor_data.xcdatamodeld in Sources */,
 				8B972B9123EC08E700D67343 /* AppDelegate.swift in Sources */,
 				8B972B9323EC08E700D67343 /* SceneDelegate.swift in Sources */,
