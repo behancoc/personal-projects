@@ -17,6 +17,7 @@
 		8B972BA223EC08E800D67343 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B972BA023EC08E800D67343 /* LaunchScreen.storyboard */; };
 		8B972BAD23EC08E800D67343 /* streaming_sensor_dataTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B972BAC23EC08E800D67343 /* streaming_sensor_dataTests.swift */; };
 		8B972BB823EC08E800D67343 /* streaming_sensor_dataUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B972BB723EC08E800D67343 /* streaming_sensor_dataUITests.swift */; };
+		8B972BC623EC153100D67343 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B972BC523EC153100D67343 /* Location.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		8B972BB323EC08E800D67343 /* streaming-sensor-dataUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "streaming-sensor-dataUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B972BB723EC08E800D67343 /* streaming_sensor_dataUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = streaming_sensor_dataUITests.swift; sourceTree = "<group>"; };
 		8B972BB923EC08E800D67343 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B972BC523EC153100D67343 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				8B972BA023EC08E800D67343 /* LaunchScreen.storyboard */,
 				8B972BA323EC08E800D67343 /* Info.plist */,
 				8B972B9B23EC08E700D67343 /* streaming_sensor_data.xcdatamodeld */,
+				8B972BC523EC153100D67343 /* Location.swift */,
 			);
 			path = "streaming-sensor-data";
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 				8B972B9523EC08E700D67343 /* MapViewController.swift in Sources */,
 				8B972B9D23EC08E700D67343 /* streaming_sensor_data.xcdatamodeld in Sources */,
 				8B972B9123EC08E700D67343 /* AppDelegate.swift in Sources */,
+				8B972BC623EC153100D67343 /* Location.swift in Sources */,
 				8B972B9323EC08E700D67343 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
